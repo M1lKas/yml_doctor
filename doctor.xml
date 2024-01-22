@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<yml_catalog date="2024-01-22 11:33">
+    <shop>
+        <name>Промедклиник</name>
+        <company>ООО ПРОМЕДКЛИНИК</company>
+        <url>https://promedclinic-nn.ru/</url>
+        <email>info@promedclinic-nn.ru</email>
+        <picture>https://promedclinic-nn.ru/templates/hirurg-nn/images/logo.svg</picture>
+        <description>Центр хирургии, проктологии и онкологии</description>
+        <currencies>
+            <currency id="RUR" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="1">Врач</category>
+        </categories>
+        <sets>
+            <set id="set_1">
+                <name>Хирург</name>
+                <url>https://promedclinic-nn.ru/wrachi</url>
+            </set>
+            <set id="set_2">
+                <name>Флеболог</name>
+                <url>https://promedclinic-nn.ru/wrachi</url>
+            </set>
+            <set id="set_3">
+                <name>Колопроктолог</name>
+                <url>https://promedclinic-nn.ru/wrachi</url>
+            </set>
+            <set id="set_4">
+                <name>Онколог</name>
+                <url>https://promedclinic-nn.ru/wrachi</url>
+            </set>
+            <set id="set_5">
+                <name>Сосудистый хирург</name>
+                <url>https://promedclinic-nn.ru/wrachi</url>
+            </set>
+            <set id="set_6">
+                <name>Анестезиолог-реаниматолог</name>
+                <url>https://promedclinic-nn.ru/wrachi</url>
+            </set>
+            <set id="set_7">
+                <name>УЗИ врач</name>
+                <url>https://promedclinic-nn.ru/wrachi</url>
+            </set>
+            <set id="set_8">
+                <name>Маммолог</name>
+                <url>https://promedclinic-nn.ru/wrachi</url>
+            </set>
+        </sets>
+        <offers>
+            <offer id="vrach15239" group_id="1">
+                <categoryId>1</categoryId><set-ids>set_1,set_3,set_4,set_7</set-ids><name>Башкуров Олег Евгеньевич</name>
+                                    <url>https://promedclinic-nn.ru/wrachi/bashkurov-oleg-evgenevich</url>
+                                    <price from="true">1500</price>
+                <oldprice>1650</oldprice>
+                                    <currencyId>RUB</currencyId>
+                                    <sales_notes>Первичный прием</sales_notes><description>Владеет всем арсеналом вмешательств на органах малого таза и брюшной полости. Так же ведет амбулаторные консультативные приемы пациентов, выполняет все амбулаторные хирургические вмешательства. Занимается научной деятельностью, является автором более чем 30 печатных работ, опубликованных как в отечественных, так и зарубежных журналах. </description><picture>https://promedclinic-nn.ru/media/k2/items/cache/feb4274796d93ff716e9650163a77fb8_L.jpg?t=20240101_053436</picture>
+                <param name="Фамилия">Башкуров</param>
+                <param name="Имя">Олег</param>
+                <param name="Отчество">Евгеньевич</param>
+                <param name="Годы опыта">18</param>
+                <param name="Город">г. Нижний Новгород</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Категория">Высшая категория</param>
+                <param name="Город клиники">г. Нижний Новгород</param>
+                <param name="Адрес клиники"> ул. Максима Горького, д. 43, 2 этаж, П 15</param>
+                <param name="Название клиники">Промедклиник</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">8(831)266-72-69</param>
+                </offer>
+            <offer id="vrach15240" group_id="2">
+                <categoryId>1</categoryId><set-ids>set_1,set_3,set_4,set_7,set_8</set-ids><name>Маслов Александр Александрович</name>
+                                    <url>https://promedclinic-nn.ru/wrachi/maslov-aleksandr-aleksandrovich</url>
+                                    <price from="true">1000</price>
+                <oldprice>1100</oldprice>
+                                    <currencyId>RUB</currencyId>
+                                    <sales_notes>Первичный прием</sales_notes><description>Имеет большой опыт проведения всех видов амбулаторных общехирургических вмешательств, амбулаторных операций в проктологии и онкологии.  Владеет методами ультразвуковой диагностики, проводит манипуляции под УЗИ-контролем (пункции, эвакуация жидкостных образований, дренирование полостей).</description><picture>https://promedclinic-nn.ru/media/k2/items/cache/e2bf3b11df0b872112757f1c2fee6e32_L.jpg?t=20240101_053523</picture>
+                <param name="Фамилия">Маслов</param>
+                <param name="Имя">Александр</param>
+                <param name="Отчество">Александрович</param>
+                <param name="Годы опыта">12</param>
+                <param name="Город">г. Нижний Новгород</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Категория">Высшая категория</param>
+                <param name="Город клиники">г. Нижний Новгород</param>
+                <param name="Адрес клиники"> ул. Максима Горького, д. 43, 2 этаж, П 15</param>
+                <param name="Название клиники">Промедклиник</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">8(831)266-72-67</param>
+                <param name="Вызов на дом">true</param>
+                </offer>
+            <offer id="vrach15241" group_id="3">
+                <categoryId>1</categoryId><set-ids>set_1,set_3</set-ids><name>Киргинцева Елена Анатольевна</name>
+                                    <url>https://promedclinic-nn.ru/wrachi/kirgintseva-elena-anatolevna</url>
+                                    <price from="true">1500</price>
+                <oldprice>1650</oldprice>
+                                    <currencyId>RUB</currencyId>
+                                    <sales_notes>Первичный прием</sales_notes><description>Владеет современными методами диагностики и лечения проктологических заболеваний, выполняет малоинвазивные вмешательства, в том числе с использованием лазерных технологий.</description><picture>https://promedclinic-nn.ru/media/k2/items/cache/af2ef6a0e2c9c528b09655df79f3b312_L.jpg?t=20240101_053742</picture>
+                <param name="Фамилия">Киргинцева</param>
+                <param name="Имя">Елена</param>
+                <param name="Отчество">Анатольевна</param>
+                <param name="Годы опыта">14</param>
+                <param name="Город">г. Нижний Новгород</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Город клиники">г. Нижний Новгород</param>
+                <param name="Адрес клиники"> ул. Максима Горького, д. 43, 2 этаж, П 15</param>
+                <param name="Название клиники">Промедклиник</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">8(831)266-72-67</param>
+                </offer>
+            <offer id="vrach15242" group_id="4">
+                <categoryId>1</categoryId><set-ids>set_1,set_3</set-ids><name>Бит-Зая Арсен Владимирович</name>
+                                    <url>https://promedclinic-nn.ru/wrachi/bit-zaya-arsen-vladimirovich</url>
+                                    <price from="true">1000</price>
+                <oldprice>1100</oldprice>
+                                    <currencyId>RUB</currencyId>
+                                    <sales_notes>Первичный прием</sales_notes><description>Специализируется на диагностике и лечении различных хирургических и колопроктологических заболеваний. Владеет широким спектром общехирургических и колопроктологических операций, в том числе с использованием малоинвазивных методик. Специалист по гнойной хирургии.</description><picture>https://promedclinic-nn.ru/media/k2/items/cache/71f67488b0857639cee631943a3fc6fa_L.jpg?t=20240101_053344</picture>
+                <param name="Фамилия">Бит-Зая</param>
+                <param name="Имя">Арсен</param>
+                <param name="Отчество">Владимирович</param>
+                <param name="Годы опыта">25</param>
+                <param name="Город">г. Нижний Новгород</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Город клиники">г. Нижний Новгород</param>
+                <param name="Адрес клиники">ул. Максима Горького, д. 43, 2 этаж, П 15</param>
+                <param name="Название клиники">Промедклиник</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">8(831)266-72-67</param>
+                <param name="Вызов на дом">true</param>
+                </offer>
+            <offer id="vrach15243" group_id="5">
+                <categoryId>1</categoryId><set-ids>set_1,set_7</set-ids><name>Башкурова Ирина Станиславовна</name>
+                                    <url>https://promedclinic-nn.ru/wrachi/bashkurova-irina-stanislavovna</url>
+                                    <price from="true">800</price>
+                <oldprice>880</oldprice>
+                                    <currencyId>RUB</currencyId>
+                                    <sales_notes>Первичный прием</sales_notes><description>Владеет основными методами ультразвуковой диагностики, в том числе УЗ-диагностикой в проктологии. Проводит УЗИ кишечника, прямой кишки и околопрямокишечных клетчаточных пространств, УЗИ эпителиальных копчиковых ходов, а также при необходимости осуществляет послеоперационный контроль за зонами вмешательств.</description><picture>https://promedclinic-nn.ru/media/k2/items/cache/b8cc41f2c23fcd5970f74c3c49efafec_L.jpg?t=20240101_052937</picture>
+                <param name="Фамилия">Башкурова</param>
+                <param name="Имя">Ирина</param>
+                <param name="Отчество">Станиславовна</param>
+                <param name="Годы опыта">14</param>
+                <param name="Город">г. Нижний Новгород</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Город клиники">г. Нижний Новород</param>
+                <param name="Адрес клиники">ул. Максима Горького, д. 43, 2 этаж, П 15</param>
+                <param name="Название клиники">Промедклиник</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">8(831)266-72-67</param>
+                <param name="Вызов на дом">true</param>
+                </offer>
+            <offer id="vrach15244" group_id="6">
+                <categoryId>1</categoryId><set-ids>set_1,set_3,set_4</set-ids><name>Лузан Роман Евгеньевич</name>
+                                    <url>https://promedclinic-nn.ru/wrachi/luzan-roman-evgenevich</url>
+                                    <price from="true">1000</price>
+                <oldprice>1100</oldprice>
+                                    <currencyId>RUB</currencyId>
+                                    <sales_notes>Первичный прием</sales_notes><description>В своей практике активно применяет весь спектр современных методик проктологических операций, в том числе малоинвазивных, в сочетании с индивидуальным подходом к каждому пациенту.</description><picture>https://promedclinic-nn.ru/media/k2/items/cache/1c6c813bb9d5494160041c1c4ee2fb70_L.jpg?t=20240101_053655</picture>
+                <param name="Фамилия">Лузан</param>
+                <param name="Имя">Роман</param>
+                <param name="Отчество">Евгеньевич</param>
+                <param name="Годы опыта">10</param>
+                <param name="Город">г. Нижний Новгород</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Город клиники">г. Нижний Новгород</param>
+                <param name="Адрес клиники">ул. Максима Горького, д. 43, 2 этаж, П 15</param>
+                <param name="Название клиники">Промедклиник</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">8(831)266-72-69</param>
+                <param name="Вызов на дом">true</param>
+                </offer>
+            <offer id="vrach15245" group_id="7">
+                <categoryId>1</categoryId><set-ids>set_1,set_3,set_4</set-ids><name>Смирнов Николай Федорович</name>
+                                    <price from="true">1500</price>
+                <oldprice>1650</oldprice>
+                                    <currencyId>RUB</currencyId>
+                                    <sales_notes>Первичный прием</sales_notes><description>Владеет современными методиками лечения малых проктологических заболеваний, а также всем арсеналом вмешательств на органах малого таза и брюшной полости. Специализируется на лечение больных с новообразованиями прямой и ободочной кишок</description><picture>https://promedclinic-nn.ru/media/k2/items/cache/787ae9ec9023a82f5aa7e4c1a64f73cb_XL.jpg?t=20230929_065715</picture>
+                <param name="Фамилия">Смирнов</param>
+                <param name="Имя">Николай</param>
+                <param name="Отчество">Федорович</param>
+                <param name="Годы опыта">49</param>
+                <param name="Город">г. Нижний Новгород</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Категория">Высшая категория</param>
+                <param name="Город клиники">г. Нижний Новгород</param>
+                <param name="Адрес клиники">ул. Максима Горького, д. 43, 2 этаж, П 15</param>
+                <param name="Название клиники">Промедклиник</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">8(831)266-11-79</param>
+                </offer>
+            <offer id="vrach15246" group_id="8">
+                <categoryId>1</categoryId><set-ids>set_1,set_2,set_5,set_7</set-ids><name>Крылов Сергей Евгеньевич</name>
+                                    <url>https://promedclinic-nn.ru/wrachi/krylov-sergej-evgenevich</url>
+                                    <price>800</price>
+                <oldprice>880</oldprice>
+                                    <currencyId>RUB</currencyId>
+                                    <sales_notes>Первичный прием</sales_notes><description>Выполняет операции на магистральных и периферических венах и артериях, включая современные миниинвазивные вмешательства.  Владеет техниками операций, используемых в общей хирургии. Владеет методиками ультразвуковых исследований, в частности сосудов конечностей, органов брюшной полости.</description><picture>https://promedclinic-nn.ru/media/k2/items/cache/233826a67be66a810b23a263230da62e_L.jpg?t=20240101_053607</picture>
+                <param name="Фамилия">Крылов</param>
+                <param name="Имя">Сергей</param>
+                <param name="Отчество">Евгеньевич</param>
+                <param name="Годы опыта">14</param>
+                <param name="Город">г. Нижний Новгород</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Категория">Высшая категория</param>
+                <param name="Город клиники">г. Нижний Новгород</param>
+                <param name="Адрес клиники">ул. Максима Горького, д. 43, 2 этаж, П 15</param>
+                <param name="Название клиники">Промедклиник</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">8(831)266-11-79</param>
+                <param name="Вызов на дом">true</param>
+                </offer>
+            <offer id="vrach15247" group_id="9">
+                <categoryId>1</categoryId><set-ids>set_1,set_2,set_5</set-ids><name>Дурандин Петр Юрьевич</name>
+                                    <url>https://promedclinic-nn.ru/wrachi/durandin-petr-yurevich</url>
+                                    <price from="true">1500</price>
+                <oldprice>1650</oldprice>
+                                    <currencyId>RUB</currencyId>
+                                    <sales_notes>Первичный прием</sales_notes><description>Имеет огромный опыт хирургического лечения заболеваний вен и реконструктивных операций на венозной системе. Проводит операции на магистральных и периферических венах и артериях, в том числе современные малоинвазивные вмешательства. А также владеет всем спектром общехирургических вмешательств.</description><picture>https://promedclinic-nn.ru/media/k2/items/cache/c2be3493ce42ee658842d93c6d54529d_L.jpg?t=20240101_053114</picture>
+                <param name="Фамилия">Дурандин</param>
+                <param name="Имя">Петр</param>
+                <param name="Отчество">Юрьевич</param>
+                <param name="Годы опыта">37</param>
+                <param name="Город">г. Нижний Новгород</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Категория">Высшая категория</param>
+                <param name="Город клиники">г. Нижний Новгород</param>
+                <param name="Адрес клиники"> ул. Максима Горького, д. 43, 2 этаж, П 15</param>
+                <param name="Название клиники">Промедклиник</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">8(831)266-11-79</param>
+                </offer>
+            <offer id="vrach15248" group_id="10">
+                <categoryId>1</categoryId><set-ids>set_6</set-ids><name>Усков Виктор Александрович</name>
+                                    <url>https://promedclinic-nn.ru/wrachi/uskov-viktor-aleksandrovich</url>
+                                    <price from="true">1000</price>
+                <oldprice>1100</oldprice>
+                                    <currencyId>RUB</currencyId>
+                                    <sales_notes>Первичный прием</sales_notes><description>Имеет опыт работы в условиях отделения реанимации и в операционных стационара с плановой и круглосуточной экстренной помощью населению. Владеет основными методами эпидуральной, спинальной, проводниковой анестезии. Проводит общее обезболивание (внутривенная седация, внутривенный наркоз, эндотрахеальный наркоз).</description><picture>https://promedclinic-nn.ru/media/k2/items/cache/500a44935c8320008f1c713a63e32b8e_L.jpg?t=20220912_064259</picture>
+                <param name="Фамилия">Усков</param>
+                <param name="Имя">Виктор</param>
+                <param name="Отчество">Александрович</param>
+                <param name="Годы опыта">7</param>
+                <param name="Город">г. Нижний Новгород</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Город клиники">г. Нижний Новгород</param>
+                <param name="Адрес клиники"> ул. Максима Горького, д. 43, 2 этаж, П 15</param>
+                <param name="Название клиники">Промедклиник</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">8(831)266-72-69</param>
+                </offer>
+            <offer id="vrach15249" group_id="11">
+                <categoryId>1</categoryId><set-ids>set_6</set-ids><name>Частов Валерий Павлович</name>
+                                    <url>https://promedclinic-nn.ru/wrachi/chastov-valerij-pavlovich</url>
+                                    <price from="true">1000</price>
+                <oldprice>1100</oldprice>
+                                    <currencyId>RUB</currencyId>
+                                    <sales_notes>Первичный прием</sales_notes><description>В совершенстве владеет методами: эпидуральная, спинальная, проводниковая анестезия; общее обезболивание (внутривенная седация, внутривенный наркоз, эндотрахеальный наркоз); анестезиологическое пособие при операциях у детей различного возраста.</description><picture>https://promedclinic-nn.ru/media/k2/items/cache/e17bf28887a04e7713039bc3ae638d41_L.jpg?t=20230926_065705</picture>
+                <param name="Фамилия">Частов</param>
+                <param name="Имя">Валерий</param>
+                <param name="Отчество">Павлович</param>
+                <param name="Годы опыта">48</param>
+                <param name="Город">г. Нижний Новгород</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Категория">Высшая категория</param>
+                <param name="Город клиники">г. Нижний Новгород</param>
+                <param name="Адрес клиники"> ул. Максима Горького, д. 43, 2 этаж, П 15</param>
+                <param name="Название клиники">Промедклиник</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">8(831)266-72-69</param>
+                </offer>
+            <offer id="vrach15250" group_id="12">
+                <categoryId>1</categoryId><set-ids>set_7</set-ids><name>Жушман Владимир Владимирович</name>
+                                    <url>https://promedclinic-nn.ru/wrachi/zhushman-vladimir-vladimirovich</url>
+                                    <price>800</price>
+                <oldprice>880</oldprice>
+                                    <currencyId>RUB</currencyId>
+                                    <sales_notes>Первичный прием</sales_notes><description>Владеет основными методами ультразвуковой диагностики, в том числе органов брюшной полости и малого таза, а также сосудов шеи.</description><picture>https://promedclinic-nn.ru/media/k2/items/cache/600eb6612b31632f6c618c9c012d873d_L.jpg?t=20240101_053030</picture>
+                <param name="Фамилия">Жушман</param>
+                <param name="Имя">Владимир</param>
+                <param name="Отчество">Владимирович</param>
+                <param name="Годы опыта">11</param>
+                <param name="Город">г. Нижний Новгород</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Город клиники">г. Нижний Новгород</param>
+                <param name="Адрес клиники"> ул. Максима Горького, д. 43, 2 этаж, П 15</param>
+                <param name="Название клиники">Промедклиник</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">8(831)266-72-67</param>
+                <param name="Вызов на дом">true</param>
+                </offer>
+            <offer id="vrach15251" group_id="13">
+                <categoryId>1</categoryId><set-ids>set_1,set_3</set-ids><name>Жуков Илья Александрович</name>
+                                    <url>https://promedclinic-nn.ru/wrachi/zhukov-ilya-aleksandrovich</url>
+                                    <price from="true">1000</price>
+                <oldprice>1100</oldprice>
+                                    <currencyId>RUB</currencyId>
+                                    <sales_notes>Первичный прием</sales_notes><description>Владеет основными методами диагностики и лечения проктологических заболеваний. </description><picture>https://promedclinic-nn.ru/media/k2/items/cache/0e17febd522cd9389b04ce5c00f25aec_L.jpg?t=20240101_053209</picture>
+                <param name="Фамилия">Жуков</param>
+                <param name="Имя">Илья</param>
+                <param name="Отчество">Александрович</param>
+                <param name="Годы опыта">3</param>
+                <param name="Город">г. Нижний Новгород</param>
+                <param name="Взрослый врач">true</param>
+                <param name="Город клиники">г. Нижний Новгород</param>
+                <param name="Адрес клиники">ул. Максима Горького, д. 43, 2 этаж, П 15</param>
+                <param name="Название клиники">Промедклиник</param>
+                <param name="Возможность записи">true</param>
+                <param name="Телефон для записи">8(831)266-11-79</param>
+                </offer>
+            </offers>
+    </shop>
+</yml_catalog>
